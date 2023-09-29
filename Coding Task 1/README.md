@@ -5,8 +5,8 @@ The Naive Robot Navigation Problem involves designing a program to navigate a gr
 **The Code:**<br>
 Refer [Naive Robot Navigation Problem.ipynb](/Naive%20Robot%20Navigation%20Problem.ipynb).<br>
 Allowed_directions is appended to include diagonal movements if all_direction is True. Once an allowed point is visited it is added to the set and BFS is implemented until it reaches the end. 
-<br>
-**Results:**<br><br>
+<br><br>
+**Results:**<br>
 The program provides two outputs in the form of a tuple:<br>
 
  - **Reachability:** The first element of the tuple is a boolean value that indicates whether the endpoint is reachable from the starting point. It returns True if the endpoint is reachable and False if it is not.
