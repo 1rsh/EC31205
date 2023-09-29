@@ -1,4 +1,4 @@
-# Coding Task 1
+# [Coding Task 1](/Coding%20Task%201/Coding%20Task%201%20Report.pdf)
 ### 1. Naive Robot Navigation Problem:
 **Problem Statement:**<br>
 The Naive Robot Navigation Problem involves designing a program to navigate a grid maze using a Breadth-First Search (BFS) algorithm. The robot's objective is to find the shortest navigation route while following only white tiles. The program takes into account various input parameters, including the maze configuration, starting and ending coordinates, and the option to allow or disallow diagonal movements. <br><br>
