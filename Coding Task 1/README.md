@@ -12,7 +12,7 @@ The program provides two outputs in the form of a tuple:<br>
  - **Reachability:** The first element of the tuple is a boolean value that indicates whether the endpoint is reachable from the starting point. It returns True if the endpoint is reachable and False if it is not.
 - **Navigation Path:** The second element of the tuple is a list that represents the navigation plan for the robot. This list contains a sequence of coordinates representing the path from the starting point to the endpoint, considering the shortest possible route.
 ****
-### 2. Naive Robot Navigation Problem:
+### 2. Smarter Robot Navigation Problem:
 **Problem Statement:**<br>
 The Smarter Robot Navigation Problem builds upon the previous Naive Robot Navigation Problem by considering the loss of speed due to changing directions. The objective is to find the shortest navigation route for a robot navigating a grid maze while taking into account the overhead costs associated with different degrees of turns. The program should use Dijkstra's shortest path algorithm to determine the optimal route.
 <br>
