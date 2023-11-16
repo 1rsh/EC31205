@@ -5,9 +5,9 @@ A scanpath refers to the sequence of eye movements made by an individual's eyes 
 The dataset contains information about the scanpaths of multiple individuals as they interact with stimulus images.<br><br>
 
 **The Code:**<br>
-Refer [Scanpath Similarity Analysis.ipynb](/Coding%20Task%202/Scanpath%20Similarity%20Analysis.ipynb).<br>
+**Refer [Scanpath Similarity Analysis.ipynb](/Coding%20Task%202/Scanpath%20Similarity%20Analysis.ipynb).<br>
 Edit Distance between Scanpaths was computed and a Minimum Spanning Tree was constructed using Prim's Algorithm, the edge with the largest weight was then removed. This yielded two clusters of individuals.
 <br><br>
 **Results:**<br>
 The program provides a graph output with two clusters.<br>
-- 
+- **
